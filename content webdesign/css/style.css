@@ -1,0 +1,13 @@
+img{
+    position: fixed;
+	height: 400px;
+	width: 350px;
+	right: 130px;
+	bottom: 320px;
+}
+
+
+h1{
+	position: relative;
+	left: 350px;
+}	
