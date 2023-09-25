@@ -1,13 +1,103 @@
-img{
-    position: fixed;
+#kerk{
+    position: relative;
 	height: 400px;
 	width: 350px;
-	right: 130px;
+	left: 900px;
 	bottom: 320px;
 }
+#Victoriemonument{
+	 position: relative;
+	height: 430px;
+	width: 350px;
+	left: 1050px;
+	bottom: 400px;
+	
+}
+#p1{
+ text-align: left;
+ position: absolute;
+}
+#pMiddeleeuwen{
+	text-align: left;
+	position: absolute;
+}
+#pVroegmoderneTijd{
+	text-align: left;
+	position: absolute;
+}
+#pHeden{
+	text-align: left;
+	position: absolute;
+	height: 900px;
+}
+#navList{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	background-color: #469C1E;
+	height: 50px;
+	text-align: center;
+}
+#navItem1{
+	float: left;
+}
+#a1{
+	display: block;
+    padding: 15px;
+	color: #FFFFFF;
+}
+#navItem2{
+	float: left;
+}
+#a2{
+	display: block;
+    padding: 15px;
+	color: #FFFFFF;
+}
+#navItem3{
+	float: left;
+}
+#a3{
+	display: block;
+    padding: 15px;
+	color: #FFFFFF;
+}
+#navItem4{
+	float: left;
+}
+#a4{
+	display: block;
+    padding: 15px;
+	color: #FFFFFF;
+}
+#navItem5{
+	float: left;
+}
+#a5{
+	display: block;
+    padding: 15px;
+	color: #FFFFFF;
+}
+#a1:hover{
+	color: #111;
+}
+#a2:hover{
+	color: #111;
+}
+#a3:hover{
+	color: #111;
+}
+#a4:hover{
+	color: #111;
+}
+#a5:hover{
+	color: #111;
+}
+
+
 
 
 h1{
 	position: relative;
 	left: 350px;
-}	
+}		
