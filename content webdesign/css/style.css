@@ -1,109 +1,133 @@
-#kerk{
-    position: relative;
-	height: 400px;
-	width: 350px;
-	left: 900px;
-	bottom: 320px;
+/* HOMEPAGE CSS*/
+*	
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
 }
-#Victoriemonument{
-	 position: relative;
-	height: 430px;
-	width: 350px;
-	left: 1050px;
-	bottom: 400px;
+/*NAVIGATION BAR*/
+#Navigation{
+	!border-width: 1em;
+	border-color: #F90;
+	border-style: double;
+	list-style-type: none;
+	padding-bottom: 90px;
+	padding-top: 20px;
+	background-color: #005200	;
+}
+#NavItem1{
+	float:left;
+	
+	border-right: 1px;
+	border-color: #FFFFFF;
+	border-style: solid;
+}
+#NavItem2{
+	float:left;
+	border-right: 1px;
+	border-color: #FFFFFF;
+	border-style: solid;	
+}
+#NavItem3{
+	float:left;
+	border-right: 1px;
+	border-color: #FFFFFF;
+	border-style: solid;
+}
+#NavItem4{
+	float:left;
+	border-right: 1px;
+	border-color: #FFFFFF;
+	border-style: solid;
+}
+#NavItem5{
+	float:left;
 	
 }
-#pMiddeleeuwen{
-	text-align: left;
-	position: absolute;
+#NavAnchor1{
+    display: block;
+	padding: 8px;
+	color: #80A980;
+	font-size: 40px;
 }
-#pVroegmoderneTijd{
-	text-align: left;
-	position: absolute;
-}
-#pHeden{
-	text-align: left;
-	position: absolute;
-	height: 900px;
-}
-#navList{
-	list-style-type: none;
-    margin: 0;
-    padding: 0;
-	background-color: #469C1E;
-	height: 50px;
-	text-align: center;
-}
-#navItem1{
-	float: left;
-}
-#a1{
+#NavAnchor2{
 	display: block;
-    padding: 15px;
-	color: #FFFFFF;
+	padding: 8px;
+	color: #80A980;
+	font-size: 40px;
 }
-#navItem2{
-	float: left;
-}
-#a2{
+#NavAnchor3{
 	display: block;
-    padding: 15px;
-	color: #FFFFFF;
+	padding: 8px;
+	color: #80A980;
+	font-size: 40px;
 }
-#navItem3{
-	float: left;
-}
-#a3{
+#NavAnchor4{
 	display: block;
-    padding: 15px;
-	color: #FFFFFF;
+	padding: 8px;
+	color: #80A980;
+	font-size: 40px;
 }
-#navItem4{
-	float: left;
-}
-#a4{
+#NavAnchor5{
 	display: block;
-    padding: 15px;
-	color: #FFFFFF;
+	padding: 8px;
+	color: #80A980;
+	font-size: 40px;
 }
-#navItem5{
-	float: left;
+#NavAnchor1:hover {
+	color: #003F00;
 }
-#a5{
-	display: block;
-    padding: 15px;
-	color: #FFFFFF;
+#NavAnchor2:hover {
+	color: #003F00;
 }
-#a1:hover{
-	color: #111;
+#NavAnchor3:hover {
+	color: #003F00;
 }
-#a2:hover{
-	color: #111;
+#NavAnchor4:hover {
+	color: #003F00;
 }
-#a3:hover{
-	color: #111;
+#NavAnchor5:hover {
+	color: #003F00;
 }
-#a4:hover{
-	color: #111;
+/*MY 2 IMAGES FOR HOMEPAGE */
+#PlaceholderImage1{
+	
 }
-#a5:hover{
-	color: #111;
-}
-#placeholder1{
-	position: relative;
-	height: 350px;
-	width: 350px;
-	right: 200px;	
-}
+#Placeholder1{
 
-#placeholder2{
-	position: relative;
-	height: 350px;
+	float: right;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-left: 10px;
+	height: 450px;
+	width:350;
+}
+#PlaceholderImage2{
+	border-width: 1em;
+	border-color: yellow;
+	border-style: double;
+}
+#Placeholder2{
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 10px;
+	float: left;
+	height: 450px;
 	width: 350px;
-	left: 200px;
 }
-#article1{
+/* TEXT FOR MY HOMEPAGE */
+#Paragraph1Hoofdpagina{
 	text-align: center;
+	padding-top: 30px;
+	color: #B3B3B3;
 }
-
+#Header1Hoofdpagina{
+	text-align: center;
+	padding-top: 50px;
+}
+#BodyHome{
+	background-color: #8BE68B;
+}
+	
+	
 
