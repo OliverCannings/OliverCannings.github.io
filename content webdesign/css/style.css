@@ -48,31 +48,31 @@
     display: block;
 	padding: 8px;
 	color: #80A980;
-	font-size: 40px;
+	font-size: 30px;
 }
 #NavAnchor2{
 	display: block;
 	padding: 8px;
 	color: #80A980;
-	font-size: 40px;
+	font-size: 30px;
 }
 #NavAnchor3{
 	display: block;
 	padding: 8px;
 	color: #80A980;
-	font-size: 40px;
+	font-size: 30px;
 }
 #NavAnchor4{
 	display: block;
 	padding: 8px;
 	color: #80A980;
-	font-size: 40px;
+	font-size: 30px;
 }
 #NavAnchor5{
 	display: block;
 	padding: 8px;
 	color: #80A980;
-	font-size: 40px;
+	font-size: 30px;
 }
 #NavAnchor1:hover {
 	color: #003F00;
@@ -119,15 +119,121 @@
 #Paragraph1Hoofdpagina{
 	text-align: center;
 	padding-top: 30px;
-	color: #B3B3B3;
+	color: #000000;
 }
 #Header1Hoofdpagina{
 	text-align: center;
 	padding-top: 50px;
 }
 #BodyHome{
-	background-color: #8BE68B;
 }
+/*DETAILPAGINA 1 */
+
+/*TEXT EN FOTO PARAGRAAF 1 */
+
+#Article1Pagina2{
 	
+	
+}
+
+#Header1Pagina2{
+	position:relative;
+	
+}
+#Paragraaf1Pagina2{
+}
+
+#Sint-Laurenskerk{
+	float: right;
+	height: 400px;
+	width: 350px;
+}
+/*Text en afbeelding paragraaf 2 */
+#VictoriemonumentPagina2{
+	height: 400px;
+	width: 300px;
+}
+#Header2Pagina2{
+	clear: both;
+	float: right;
+}
+#Paragraaf2Pagina2{
+	clear: both;
+	float: right;
+}
+/*Text en afbeelding paragraaf 3 */
+#PakhuisPagina2{
+	
+	float: right;
+}	
+#Paragraaf3Pagina2{
+	float: left;
+}
+/*DETAILPAGINA 2 */
+
+/*Text en Afbeelding paragraaf 1 */
+
+#Header1Pagina3{
+	float: left;
+}
+#Paragraaf1Pagina3{
+	clear: both;
+	float: left;
+	padding-right: 350px;
+}
+#CentrumAlkmaar{
+	float: right;
+}
+
+
+/*Text en Afbeelding paragraaf 2 */
+
+#Header2Pagina3{	
+	float: right;
+}
+#Paragraaf2Pagina3{
+	clear: both;
+	float: right;
+	text-align: right;
+}
+#Afbeelding2Pagina3{
+	float: left;
+	height: 400px;
+	width: 400px;
+}
+
+/*Text en Afbeelding paragraaf 3 */
+
+#Header3Pagina3{
+	clear: both;
+	float: left;
+}
+#Paragraaf3Pagina3{
+	clear: both;
+	float: left;
+	text-align: left;
+}
+#Afbeelding3Pagina3{
+	float: right;
+	height: 500px;
+	width: 500px;
+}
+/*DETAILPAGINA 3 */
+
+/*tEXT EN AFBEELDING PARAGRAAF 1*/
+#Paragraaf1Pagina4{
+	float: right;
+	clear:both;
+}
+#oudegracht{
+	height: 320px;
+}
+#Header1Pagina4{
+	clear:both;
+	float:right;
+}
+
+/*Text en afbeelding parafraaf 2 */
+
 	
 
