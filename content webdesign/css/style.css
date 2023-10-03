@@ -224,6 +224,7 @@
 #Paragraaf1Pagina4{
 	float: right;
 	clear:both;
+	text-align: right;
 }
 #oudegracht{
 	height: 320px;
@@ -233,7 +234,89 @@
 	float:right;
 }
 
-/*Text en afbeelding parafraaf 2 */
+/*Text en afbeelding paragraaf 2 */
+#Header2Pagina4{
+}
+
+#Paragraaf2Pagina4{
+	clear: both;
+	float: right;
+	text-align: right;
+}
+/* Text en afbeelding paragraaf 3 */
+
+#Header3Pagina4{
+	clear: both;
+	float: right;
+}
+
+#Paragraaf3Pagina4{
+	clear: both;
+	float: right;
+	text-align: right;
+}
+
+#kanonnen{
+	height: 400px;
+	width: 400px;
+}
+
+/* Detailpagina4 */
+
+/*Text en afbeelding paragraaf 1 */
+
+#Header1Pagina5{
+	float: right;
+}
+
+#Paragraaf1Pagina5{
+	clear: both;
+	float: right;
+	text-align: right;
+}
+
+#Nassau{
+	float: left;
+	height: 400px;
+	width: 400px;
+}
+
+/* Text en afbeelding paragraaf 2 */
+
+#Header2Pagina5{
+	clear: both;
+	float: right;
+}
+
+#Paragraaf2Pagina5{
+	clear: both;
+	float: right;
+	text-align: right;
+}
+
+#GeestmerambachtMeer{
+	float: left;
+	height: 400px;
+	width: 400px;
+}
+
+/* Text en afbeelding paragraaf 3 */
+
+#Header3Pagina5{
+	clear: both;
+	float: right;
+}
+
+#Paragraaf3Pagina5{
+	clear: both;
+	float: right;
+	text-align: right;
+}
+
+#DuinvermaakDuinen{
+	float: left;
+	height: 400px;
+	width: 400px;
+}
 
 	
-
