@@ -11,6 +11,7 @@ body{
 
 .Navigation > ul
 {
+	width: 100%;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;	
@@ -36,3 +37,29 @@ body{
 	background-color: #000000;
 }
 
+#Image1Hoofdpagina{
+	display: none;
+}
+.article1Hoofdpagina{
+	width: 100%;
+}
+.article1Hoofdpagina > p{
+	width: 80%;
+	margin: auto;
+}
+.article1Hoofdpagina > header{
+	width: 80%;
+	margin: auto;
+}
+.article1Hoofdpagina > img{
+	width: 50%
+	margin: auto;
+}
+#HeaderHoofdpagina{
+	color: #0B2D32;
+}
+#TekstHoofdpagina{
+	color: #3F1211;
+	font-size: 20px;
+}
+	
