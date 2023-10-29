@@ -1,0 +1,38 @@
+*{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	background-color: #A3BBAD;
+}
+
+body{
+	width: 100%;
+}
+
+.Navigation > ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;	
+	background-color: #0E3B43;
+	height: 80px;
+	padding-top: 45px;	
+}
+.Navigation > ul > li
+{
+	float: left;
+}
+
+.Navigation > ul > li > a
+{
+	padding: 8px;
+	background-color: #0E3B43;
+	color: #A3BBAD;
+	text-decoration: none;
+	font-size: 30px;
+}
+.Navigation > ul > li > a:hover
+{
+	background-color: #000000;
+}
+

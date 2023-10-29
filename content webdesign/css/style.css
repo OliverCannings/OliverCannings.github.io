@@ -1,0 +1,547 @@
+*{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	background-color: #A3BBAD;
+}
+
+body{
+	width: 100%;
+}
+
+.Navigation > ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;	
+	background-color: #0E3B43;
+	height: 80px;
+	padding-top: 45px;	
+}
+.Navigation > ul > li
+{
+	float: left;
+}
+
+.Navigation > ul > li > a
+{
+	padding: 8px;
+	background-color: #0E3B43;
+	color: #A3BBAD;
+	text-decoration: none;
+	font-size: 30px;
+}
+.Navigation > ul > li > a:hover
+{
+	background-color: #000000;
+}
+
+#HoofdpaginaParagraaf
+{
+	width: 100%;
+	height: 500px;
+	margin: auto;
+	font-size: 20px;
+	text-align: center;
+	color: #3F1211; 
+	background-color: #A3BBAD;
+	padding-bottom: 195px;
+}
+#TekstHoofdpagina
+{
+	width: 40%;
+	margin: auto;
+}
+#HeaderHoofdpagina
+{
+	padding-top: 150px;
+	width: 40%;
+	margin: auto;
+	color: #0B2D32;
+}
+#Image1Hoofdpagina
+{
+	float: left;
+	position: relative;
+	height: 400px;
+	width: 15%;
+	bottom: 270px;
+	left: 160px;
+}
+#Image2Hoofdpagina
+{
+	float: right;
+	position: relative;
+	height: 400px;
+	width: 15%;
+	bottom: 270px;
+	right: 160px;
+
+}
+
+.footer{
+	position: relative;
+	text-align: center;
+	height: 85px;
+	background-color: #0B2D32;
+	top:5px;
+}
+#FooterText{
+	position: relative;
+	float: right;
+	background-color: #0B2D32;
+	padding-top: 35px;
+	padding-left: 100px;
+	color: #A3BBAD;
+}
+#logo{
+	height: 85px;
+	width: 85px;
+	float: left;
+	background-color: #0B2D32;
+}
+	
+
+.Article1Pagina1{
+	width: 60%;
+	margin: auto;
+	padding-top: 70px;
+}
+.Article1Pagina1> p
+{
+	width: 40%;
+	float: right;
+	clear: both;
+	padding-right: 150px;
+	text-align: left;
+	padding-top: 30px;
+	color: #3F1211;
+	padding-bottom: 150px;
+	font-size: 20px;
+}
+.Article1Pagina1> header 
+{
+	width: 40%;
+	float: right;
+	padding-top: 50px;
+	text-align: left;
+	padding-right: 120px;
+	color: #0B2D32;
+}
+.Article1Pagina1> figure> img
+{
+	
+	width: 30%;
+	float: left;
+	position: relative;
+	bottom: 70px;
+	left: 50px;
+}
+.Article1Pagina1> img
+{
+	
+	width: 30%;
+	float: left;
+	position: relative;
+	bottom: 70px;
+	left: 50px;
+}
+.figcaptionPagina1{
+	position: relative;
+	top: 380px;
+	left: 50px;
+}
+.Article2Pagina1{
+	width: 60%;
+	margin: auto;
+}
+.Article2Pagina1 > header{
+	float: right;
+	clear: both;
+}
+.Article2Pagina1 > p{
+	float: right;
+	clear: both;
+}
+
+.FooterPagina1{
+	height: 85px;
+	position: relative;
+	top: 1400px;
+	background-color:#0B2D32;
+}
+.FooterPagina1 > p{
+	position: relative;
+	top: -1275px;
+	float: right;
+	background-color: #0B2D32;
+	color: #A3BBAD;
+}
+.FooterPagina1 > img{
+	position: relative;
+	height: 85px;
+	width: 85px;
+	float: left;
+	clear: both;
+	top: -1326px;
+}
+
+.Article1Pagina2{
+	padding-top: 50px;
+	width: 65%;
+	margin: auto;
+}
+.Article1Pagina2 > p{
+	width: 45%;
+	float: right;
+	clear: both;
+	font-size: 20px;
+	color: #3F1211;
+}
+.Article1Pagina2 > header{
+	width:45%;
+	float: right;
+	padding-bottom: 30px;
+	text-align: center;
+	color: #0B2D32;
+}
+.Pagina2Image{
+	width: 460px;
+	height: 460px;
+}
+.FooterPagina2{
+	height: 85px;
+	position: relative;
+	top: 150px;
+	background-color:#0B2D32;
+}
+.FooterPagina2 > p{
+	position: relative;
+	top: 35px;
+	float: right;
+	background-color: #0B2D32;
+	color: #A3BBAD;
+}
+.FooterPagina2 > img{
+	position: relative;
+	height: 85px;
+	width: 85px;
+	float: left;
+	clear: both;
+	top: -18px;
+}
+.article1Pagina3{
+	padding-top: 50px;
+	width: 60%;
+	margin: auto;
+}
+.article1Pagina3 >  aside> header{
+	text-align: center;
+	color: #0B2D32
+}
+.article1Pagina3 > aside> p{
+	color: #4C2D31;
+	font-size: 20px;
+}
+.article2Pagina3{
+	padding-top: 50px;
+	width: 80%;
+	margin: auto;
+}
+.article2Pagina3 > section > p{
+	width: 50%;
+	float: left;
+	clear: both;
+	font-size: 20px;
+	color: #4C2D31;
+}
+.article2Pagina3 > p{
+	width: 50%;
+	float: left;
+	clear: both;
+	font-size: 20px;
+	color: #4C2D31;
+}
+.article2Pagina3 > header{
+	width: 50%;
+	float: left;
+	color: #0B2D32;
+	text-align: center;
+}
+.article2Pagina3 > section > header{
+	width: 50%;
+	float: left;
+	color: #0B2D32;
+	text-align: center;
+}
+.article2Pagina3 > img{
+	float: right;
+	width: 30%;
+	position: relative;
+	top: -40px;
+	right: 100px;
+	padding-bottom: 50px;
+}
+.article2Pagina3 >  section > img{
+	float: right;
+	width: 30%;
+	position: relative;
+	top: -40px;
+	right: 100px;
+	padding-bottom: 50px;
+}
+.imagePagina3{
+	height: 500px;
+	width: 350px;
+}
+#header2Pagina3{
+	position: relative;
+	bottom: -305px;
+	text-align: center;
+}
+#headerPagina3{
+	position: relative;
+	bottom: -225px;
+	text-align: center;
+	font-size: 20px;
+}
+#westelijk{
+	font-size: 20px;
+}
+#asideHeader{
+	font-size: 20px;
+}
+	
+.FooterPagina3{
+	height: 85px;
+	position: relative;
+	top: 1650px;
+	background-color:#0B2D32;
+}
+.FooterPagina3 > p{
+	position: relative;
+	top: -1040px;
+	float: right;
+	right: -510px;
+	background-color: #0B2D32;
+	color: #A3BBAD;
+}
+.FooterPagina3 > img{
+	position: relative;
+	height: 85px;
+	width: 85px;
+	float: left;
+	clear: both;
+	top: -1625px;
+}
+.imagePagina4{
+	height:450px;
+	width: 320px;
+}
+.article1Pagina4{
+	width: 80%;
+	padding-top: 50px;
+}
+.article1Pagina4 > header{
+	width: 50%;
+	float: right;
+	color: #0B2D32;
+}
+.article1Pagina4 > p{
+	position: relative;
+	left: -150px;
+	width: 50%;
+	clear: both;
+	float: right;
+	font-size: 20px;
+	text-align: center;
+	color: #4C2D31;
+}
+#HeilooërbosPad{
+	float: left;
+	padding-left: 100px;
+}
+#Nassau{
+	position: relative;
+	float: right;
+	right: -200px;
+	top: -245px;
+}
+#GeestmerambachtPad{
+	float: left;
+	padding-left: 100px;
+}
+#GeestmerambachtMeer{
+	position: relative;
+	float: right;
+	right: -200px;
+	top: -270px;
+}
+#DuinvermaakTrap{
+	float: left;
+	padding-left: 100px;
+	position: relative;
+	top: -50px;
+}
+#DuinvermaakDuinen{
+	position: relative;
+	float: right;
+	right: -200px;
+	top: -245px;
+}
+#Header1Pagina4{
+	position: relative;
+	left: 90px;
+}
+
+#Header2Pagina4{
+	position: relative;
+	left: 370px;
+	bottom: -200px;
+}
+
+#Header3Pagina4{
+	position: relative;
+	left: 400px;
+	bottom: -220px;
+}
+.FooterPagina4{
+	height: 85px;
+	position: relative;
+	top: 1900px;
+	background-color:#0B2D32;
+}
+.FooterPagina4 > p{
+	position: relative;
+	top: -1509px;
+	float: right;
+	right: -610px;
+	background-color: #0B2D32;
+	color: #A3BBAD;
+}
+.FooterPagina4 > img{
+	position: relative;
+	height: 85px;
+	width: 85px;
+	float: left;
+	clear: both;
+	top: -1994px;
+}
+#headerContact{
+	text-align: center;
+	padding-top: 70px;
+	position:relative;
+	bottom: 20px;
+}
+#FullName{
+	background-color: #FFF;
+	border: solid;
+    position: relative;
+}
+#email{
+	background-color: #FFF;
+	border: solid;
+	position: relative;
+	right: 230px;
+	bottom: 52px;
+}
+#phone{
+    background-color: #FFF;
+	border: solid;
+	position: relative;
+	right: 549px;
+	bottom: 2px;
+}
+#vraag{
+	background-color: #FFF;
+	border: solid;
+	position: relative;
+	left: 290px;
+	top: 20px;
+}
+#submitbutton{
+	position: relative;
+	background-color: #FFF;
+	border: solid;
+	top: 50px;
+	left: 50px;
+}
+.positionDhr{
+	position: relative;
+	left: -200px;
+	top:-110px;
+	font-size: 20px;
+}
+.positionmevr{
+	position: relative;
+	left: -170px;
+	top:-110px;
+	font-size: 20px;
+}
+	
+input[type=radio]{
+	width:30px;
+	height:30px;
+}
+#positietekstDhr{
+	top: -117px;
+}
+	
+#positietekstmevr{
+	top: -117px;
+}
+#labelFullName{
+	position: relative;
+	left: 320px;
+	bottom: 117px;
+	font-size: 20px;
+}
+#FullName{
+	position: relative;
+	left: 320px;
+	bottom: 118px;
+}
+.label{
+	font-size: 20px;
+}
+#labelPhone{
+	position: relative;
+	right: 585px;
+}
+#labelEmail{
+	position: relative;
+	right: 348px;
+	bottom: 50px;
+}
+#labelVraag{
+	position: relative;
+	right: 902px;
+	top: 45px;
+}
+#FooterContact{
+	position: relative;
+	top: 300px;
+}
+.form{
+	position:relative;
+	top: 200px;
+}
+
+
+legend {
+  position: relative;
+  left: 350px;
+  bottom: 150px;
+  background-color: gray;
+  color: white;
+  padding: 5px 10px;
+}
+
+input {
+  margin: 5px;
+}
+
+	
+	
+	
+	
