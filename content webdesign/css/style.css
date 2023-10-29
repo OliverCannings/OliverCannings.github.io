@@ -1,9 +1,15 @@
+/*RESET ALL*/
 *{
 	border: 0;
 	margin: 0;
 	padding: 0;
 	background-color: #A3BBAD;
+	font-family: "Source Sans Pro" "Times New Roman", "Source Serif 4";
 }
+header{
+	letter-spacing: -1px;
+}
+
 
 body{
 	width: 100%;
@@ -35,6 +41,9 @@ body{
 {
 	background-color: #000000;
 }
+.Navigation > ul > li a:active{
+	color: #0000FF;
+}
 
 #HoofdpaginaParagraaf
 {
@@ -51,6 +60,10 @@ body{
 {
 	width: 40%;
 	margin: auto;
+	line-height: 100%;
+	text-indent: -1em;
+	word-spacing: 0.1rem;
+
 }
 #HeaderHoofdpagina
 {
@@ -58,6 +71,7 @@ body{
 	width: 40%;
 	margin: auto;
 	color: #0B2D32;
+	text-transform: uppercase;
 }
 #Image1Hoofdpagina
 {
@@ -155,14 +169,11 @@ body{
 	width: 60%;
 	margin: auto;
 }
-.Article2Pagina1 > header{
+.Article2Pagina1 > header, p{
 	float: right;
 	clear: both;
 }
-.Article2Pagina1 > p{
-	float: right;
-	clear: both;
-}
+
 
 .FooterPagina1{
 	height: 85px;
@@ -437,6 +448,7 @@ body{
 	background-color: #FFF;
 	border: solid;
     position: relative;
+	border-color: #000000;
 }
 #email{
 	background-color: #FFF;
@@ -458,6 +470,8 @@ body{
 	position: relative;
 	left: 290px;
 	top: 20px;
+	border-style: dotted;
+	border-width: 2px;
 }
 #submitbutton{
 	position: relative;
