@@ -1,0 +1,5 @@
+Student name: Oliver Cannings
+Student number: 682310
+Student class: inf1A
+GitHub Repository: https://github.com/OliverCannings/OliverCannings.github.io
+GitHub Pages URL: https://github.com/OliverCannings/OliverCannings.github.io/deployments/github-pages
